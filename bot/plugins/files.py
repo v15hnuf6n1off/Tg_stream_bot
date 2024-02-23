@@ -31,7 +31,7 @@ async def user_file_handler(event: NewMessage.Event | Message):
                     Button.url('**📺Stream**', stream_link)
                 ],
                 [
-                    Button.url('**📁Get File**',__ deep_link __),
+                    Button.url('**📁Get File**',deep_link),
                     Button.inline('🗑Revoke', f'rm_{message_id}_{secret_code}')
                 ]
             ]
