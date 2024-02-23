@@ -28,6 +28,7 @@ FileLinksText = \
 """
 **📥Download Link:**
 \n`%(dl_link)s`
+
 **📁Telegram File:**
 \n`%(tg_link)s`
 """
@@ -36,8 +37,10 @@ MediaLinksText = \
 """
 **📥Download Link:**
 \n`%(dl_link)s`
+
 **📺Stream Link:**
 \n`%(stream_link)s`
+
 **📁Telegram File:**
 \n`%(tg_link)s`
 """
