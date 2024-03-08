@@ -27,10 +27,10 @@ UserInfoText = \
 FileLinksText = \
 """
 **📥Download Link:**
-\n  `[Click Here](%(dl_link)s)`
+\n  `%(dl_link)s`
 
 **📁Telegram File:**
-\n  `[Click Here](%(tg_link)s)`
+\n  `%(tg_link)s`
 """
 
 MediaLinksText = \
